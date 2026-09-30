@@ -1,3 +1,10 @@
+import {
+    FaFacebookF,
+    FaInstagram,
+    FaYoutube,
+    FaTiktok
+} from "react-icons/fa";
+
 function Footer() {
     return (
         <footer className="footer">
@@ -33,10 +40,39 @@ function Footer() {
             </div>
 
             <div className="footer-redes">
-                <a href="https://www.google.com/?hl=es" target="blank">Facebook</a>
-                <a href="https://www.google.com/?hl=es" target="blank">Instagram</a>
-                <a href="https://www.youtube.com/watch?v=DLzxrzFCyOs&list=RDDLzxrzFCyOs&start_radio=1" target="blank">YouTube</a>
-                <a href="https://www.google.com/?hl=es" target="blank">TikTok</a>
+
+                <a
+                    href="https://www.facebook.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <FaFacebookF />
+                </a>
+
+                <a
+                    href="https://www.instagram.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <FaInstagram />
+                </a>
+
+                <a
+                    href="https://www.youtube.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <FaYoutube />
+                </a>
+
+                <a
+                    href="https://www.tiktok.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <FaTiktok />
+                </a>
+
             </div>
 
             <div className="footer-final">
