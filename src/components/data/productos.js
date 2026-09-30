@@ -27,7 +27,7 @@ const productos = [
     imagen: ecopin,
     categoria: "Electro",
     descripcion: "Echo Pin te ayuda a registrar lo importante sin interrumpirte: capturá conversaciones, reuniones e ideas, y dejá que la IA las convierta en transcripciones y notas organizadas.",
-    link: "https://www.youtube.com"
+    link: "https://mpago.la/1wm6wHR"
   },
 
   {
@@ -38,7 +38,7 @@ const productos = [
     imagen: razor,
     categoria: "Electro",
     descripcion: "¿Buscás una afeitadora que rasure a cero, suave, sin cortes y sin dolor? Voltra Blade Pro es ideal para vos: Waterproof, inalámbrica y con cuchillas laminadas para no cortar ni irritar tu piel.",
-    link: "https://www.mercadolibre.com.ar"
+    link: "https://mpago.la/166y1Yw"
   },
 
   {
@@ -49,7 +49,7 @@ const productos = [
     imagen: perros,
     categoria: "Electro",
     descripcion: "Aspiradora práctica para ayudar a mantener limpio el hogar y eliminar pelos de tus mascotas.",
-    link: "https://www.instagram.com"
+    link: "https://mpago.la/2we3fLx"
   },
 
   {
@@ -60,7 +60,7 @@ const productos = [
     imagen: hidro,
     categoria: "Electro",
     descripcion: "Hidrolavadora portátil y práctica para realizar tareas de limpieza de forma cómoda.",
-    link: "https://www.facebook.com"
+    link: "https://mpago.la/1PpZzoX"
   },
 
   {
@@ -71,7 +71,7 @@ const productos = [
     imagen: sellador,
     categoria: "Electro",
     descripcion: "Sellador al vacío portátil ideal para conservar alimentos y mantenerlos protegidos.",
-    link: "https://www.tiktok.com"
+    link: "https://mpago.la/26xwtZL"
   },
 
   {
@@ -82,7 +82,7 @@ const productos = [
     imagen: mano,
     categoria: "Electro",
     descripcion: "Aspiradora de alta potencia, práctica y fácil de utilizar para la limpieza diaria.",
-    link: "https://www.google.com"
+    link: "https://mpago.la/19qHtyL"
   },
 
   {
@@ -93,7 +93,7 @@ const productos = [
     imagen: portatil,
     categoria: "Electro",
     descripcion: "Aspiradora inalámbrica 3 en 1 diseñada para facilitar la limpieza de diferentes espacios.",
-    link: "https://www.youtube.com"
+    link: "https://mpago.la/1w5rFdC"
   }
 ];
 
